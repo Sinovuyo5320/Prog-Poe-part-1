@@ -2,7 +2,7 @@ public class Login {
 
     //variables to store user info
     private String storedUsername;
-    private String storedPassword;
+    private String storedPassword; 
     private String FirstName;
     private String LastName;
     private String Cellnumber;
