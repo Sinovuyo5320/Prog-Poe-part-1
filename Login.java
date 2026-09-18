@@ -16,6 +16,7 @@ public class Login {
         this.Cellnumber = Cellnumber;
     }
 
+
     // Checks if username has an underscore and is 5 characters or less
     public boolean checkUserName(String username) {
         boolean hasUnderscore = username.contains("_");
